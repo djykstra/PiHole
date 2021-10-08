@@ -7,5 +7,6 @@ Basic life list services (desktop and mobile device)
 - google classroom
 - youtube
 
-White list created as daily family need
+White list created as daily family need (insert to gravity.db)
+
 
