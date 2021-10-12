@@ -1,0 +1,3 @@
+(\.|^)\.securedns\.avast\.com$
+(heytap)*
+(oppo)*
