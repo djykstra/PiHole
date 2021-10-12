@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/djykstra/PiHole/main/blacklist-1.txt
 https://raw.githubusercontent.com/djykstra/PiHole/main/blacklist-2.txt
 https://raw.githubusercontent.com/djykstra/PiHole/main/blacklist-3.txt
 https://raw.githubusercontent.com/djykstra/PiHole/main/blacklist-4.txt
+https://raw.githubusercontent.com/djykstra/PiHole/main/blacklist-5.txt
+
 
 
 
