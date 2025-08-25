@@ -1,4 +1,3 @@
- 
 redtube.com
 *.redtube.com
 *.rdtcdn.com
@@ -10,7 +9,6 @@ redtube.com
 *.vcmdiawe.com
 vacdn.tsyndicate.com
 *.ahcdn.com
-
 *.t8cdn.com
 25748s.ha.azioncdn.net
 
@@ -96,8 +94,8 @@ app.adjust.com
 app.adjust.net.in
 app.adjust.world
 
-#*.facebook.com
-#*.fbcdn.net
+*.facebook.com
+*.fbcdn.net
 
 mqtt-tokopedia-customer-prd.gojekapi.com
 inner-all.fe-non-tt-og-sgcentral-rowttp.sg1.bytelb.com
@@ -105,12 +103,12 @@ inner-all.fe-non-tt-og-sgcentral-rowttp.sg1.bytelb.com
 *.sgsnssdk.com
 *.newrelic.com
 geo.cardinalcommerce.com
-#*.branch.io
+*.branch.io
 
 api.sprig.com
 terapijarum.firebaseio.com
 
-#xl
+!xl
 inapps.appsflyer.com
 sdk-01.moengage.com
 
@@ -135,12 +133,12 @@ includes.ccdc02.com
 
 *.grab.com
 
-#traveloka
+!traveloka
 *.prod.tvlk-data.com
 sdk.iad-03.braze.com
 ik.imagekit.io
 
-#rednote
+!rednote
 *.xhscdn.com
 *.gepush.com
 *.getui.com
@@ -160,7 +158,7 @@ crash.xiaohongshu.com
 
 amp-prod.shz-amp-prod.shazamcloud.com
 
-#bca
+!bca
 *.biliintl.com
 
 *.paypal.com
