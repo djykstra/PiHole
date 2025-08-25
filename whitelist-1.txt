@@ -14,12 +14,7 @@ vacdn.tsyndicate.com
 *.t8cdn.com
 25748s.ha.azioncdn.net
 
-
 www.reddit.com
->reddit.com 151.101.65.140
->reddit.com 151.101.1.140
->reddit.com 151.101.129.140
->reddit.com 151.101.193.140
 
 *.in-addr.arpa
 
@@ -50,7 +45,6 @@ zshopee.v.baishan-cloud.net
 shopeepayid.onelink.me
 *.ibyteimg.com
 *.cdnhwc7.com
-
 
 *.tiktokcdn.com
 *.ovc.gslb.rocket-cdn.com
