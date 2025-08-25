@@ -25,6 +25,7 @@ dualstack.pinterest.map.fastly.net
 *.google.com
 families.google
 familylink.google.com
+clients.l.google.com
 
 *.youtube.com
 redirector.googlevideo.com
