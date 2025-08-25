@@ -23,6 +23,7 @@ dualstack.pinterest.map.fastly.net
 
 *.googleapis.com
 *.google.com
+*.googlevideo.com
 families.google
 familylink.google.com
 
